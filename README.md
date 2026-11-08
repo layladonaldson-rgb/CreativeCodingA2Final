@@ -6,6 +6,7 @@ The aim of this project is to address an artistic challenge. I’ve spent time s
 
 ### NOTE: 
 With commenting on this project, all comments aligned to the left are my own notes + annotations made when reviewing the source code. Comments pushed out a third are parts of code I tried and failed to make work, leaving them there as evidence of working, commented-out to ensure they don't mess with the code itself in the prototype - thanks!
+There are also no additional downloads or libraries needed to access the code - just p5.js.
 
 ### Coding Language used: 
 JavaScript
